@@ -48,7 +48,7 @@ if (sottrazione == 101) {
 
 const pgreco = 3.14;
 const e = 2.71828;
-let numero= 25;
+let numero= 11;
 
 if(numero %2==0, numero != 1) 
 if(numero <=4)
