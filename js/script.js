@@ -48,16 +48,16 @@ if (sottrazione == 101) {
 
 const pgreco = 3.14;
 const e = 2.71828;
-let numero= 11;
+let numero= 333;
 
-if(numero %2==0, numero != 1) 
-if(numero <=4)
+if(numero %2==0 && numero != 2 && numero <=4) 
 {
- console.log(numero * pgreco)
+    console.log(numero * pgreco)
 
-}else{
-   console.log(numero * e)
-}
+    }else{
+    console.log(numero * e)
+    }
+
 
 
 
